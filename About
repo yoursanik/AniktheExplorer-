@@ -1,0 +1,23 @@
+<section id="about" style="padding: 60px 20px; background-color: #f9f9f9;">
+  <div style="max-width: 1000px; margin: auto; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px;">
+    <div style="flex: 1; min-width: 250px; text-align: center;">
+      <img src="images/anik.jpg" alt="Ahamed Anik" style="width: 250px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    </div>
+    <div style="flex: 2; min-width: 300px;">
+      <h2 style="font-size: 28px; margin-bottom: 20px;">About Me</h2>
+      <p style="line-height: 1.8;">
+        I am a proud Bangladeshi artist with a deep passion for music. Since childhood, music has been my language of expression. I create and perform songs that reflect emotion and real-life stories.
+        <br><br>
+        My music is available on all major social platforms including Facebook Stories, Instagram Reels, and YouTube Shorts. You can also stream my tracks on Spotify, Apple Music, Amazon Music, Deezer, and more. I'm grateful to have a global audience who connects with my voice. I blend the essence of traditional Bengali music with modern sound. To me, music is not just sound—it's a journey of the soul. Every song I release is a piece of my heart shared with the world.
+        <br><br>
+        Beyond music, I am also a skilled WordPress expert. I design and develop websites that are fast, responsive, and SEO-friendly. My work ranges from personal portfolios to full-scale e-commerce websites. I specialize in WordPress theme customization, plugin integration, and speed optimization. With years of hands-on experience, I've completed many successful freelance projects. I believe a good website is more than just design—it's a digital identity. Through clean UI/UX and modern aesthetics, I bring brands to life online.
+        <br><br>
+        I constantly keep myself updated with new trends and technologies. Creativity and technical skill drive everything I do. Client satisfaction is always my top priority. I take pride in delivering professional and high-quality work. Communication, clarity, and commitment define my workflow.
+        <br><br>
+        Art and technology both inspire me. As a musician and developer, I live in two creative worlds. This unique combination makes me both versatile and original. I strive to bring change and positivity through my work. In the future, I hope to release more songs and build more digital brands.
+        <br><br>
+        If you're looking for someone who understands both sound and code, I’m here. Thank you for visiting my profile and supporting my journey.
+      </p>
+    </div>
+  </div>
+</section>
