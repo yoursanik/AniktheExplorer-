@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ahamed Anik - Portfolio</title>
+  <style>
+    /* Basic dark mode styles */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+    header {
+      padding: 1rem 2rem;
+      background-color: #1f1f1f;
+      text-align: center;
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: #bb86fc;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      font-size: 2.5rem;
+      margin-bottom: 1.5rem;
+      color: #bb86fc;
+      text-align: center;
+    }
+    .about-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+    @media (min-width: 768px) {
+      .about-container {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+    }
+    .about-image {
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #bb86fc;
+      box-shadow: 0 0 10px #bb86fc;
+    }
+    .about-text {
+      max-width: 600px;
+      line-height: 1.6;
+      color: #ddd;
+    }
+    .about-text p {
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    Ahamed Anik
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <div class="about-container">
+      <img src="anik.jpg" alt="Ahamed Anik" class="about-image" />
+      <div class="about-text">
+        <p>Hi! I'm <strong>Ahamed Anik</strong>, a passionate Bangladeshi artist and creative soul. I specialize in crafting music that touches hearts and connects with listeners all over the world.</p>
+        <p>My tracks are officially available on major streaming platforms like <strong>Spotify, Apple Music, Amazon Music, YouTube Music</strong>, and many others.</p>
+        <p>I started my journey in music with a deep love for melodies and rhythms that tell a story. Over time, I’ve grown from a local talent to a global presence, and I’m proud to represent Bangladesh in the international music scene.</p>
+        <p>Besides music, I’m also a professional <strong>WordPress Expert (WP)</strong>. I help individuals, startups, and businesses build elegant, fast, and responsive websites using WordPress. Whether it’s a portfolio site, eCommerce, or blog — I deliver dynamic websites with user-friendly design and SEO optimization.</p>
+        <p>I believe in constant learning and creativity. My passion lies in blending art with technology — whether it's through designing a clean user interface or producing a soulful track.</p>
+        <p>I am open to collaborations, web projects, music distribution opportunities, or simply connecting with other creators around the world. Let’s build, create, and inspire — one song and one website at a time.</p>
+      </div>
+    </div>
+  </section>
+
+</body>
+</html>
